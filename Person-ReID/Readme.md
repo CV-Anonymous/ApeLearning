@@ -1,8 +1,6 @@
 APE Learning for Person Re-identification
 =========
 
-The codes are expanded on a [Re-ID Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline), which is open sourced by Hao Luo.
-
 Installation
 ---------
 [pytorch](https://pytorch.org)    
@@ -46,4 +44,4 @@ python3 tools/train.py --config_file='configs/softmax_triplet_Ours_V1.yml'  OUTP
 
 Illustration
 ---------
-The baseline has some authors information in their codes, who have no relationships with us. For reviewing the paper, we comment these information, and we will recover them after reviewing. If we miss some information (e.g., name and email) in the codes, we declare that the information is not belong to any author in our paper.
+The codes are expanded on a [Re-ID Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thus, the baseline has some authors information, which is not belong to any author in our paper.
