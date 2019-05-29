@@ -1,6 +1,6 @@
 MODEL:
   PRETRAIN_CHOICE: 'imagenet'
-  PRETRAIN_PATH: '/home/han.sun/.torch/models/resnet50-19c8e357.pth'
+  PRETRAIN_PATH: '/home/.torch/models/resnet50-19c8e357.pth'
   LAST_STRIDE: 1
   NECK: 'no'
   METRIC_LOSS_TYPE: 'ours'
@@ -71,6 +71,4 @@ TEST:
   NECK_FEAT: 'after'
   FEAT_NORM: 'yes'
 
-OUTPUT_DIR: "/data/han.sun/Checkpoints/ReID_Strong_BL/market1501"
-
-
+OUTPUT_DIR: "/data/Checkpoints/ReID_Strong_BL/market1501"

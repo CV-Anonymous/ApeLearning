@@ -1,5 +1,5 @@
 MODEL:
-  PRETRAIN_PATH: '/home/han.sun/.torch/models/resnet50-19c8e357.pth'
+  PRETRAIN_PATH: '/home/.torch/models/resnet50-19c8e357.pth'
   NECK: 'no'
   DEVICE_ID: "'1'"
 
@@ -40,6 +40,4 @@ SOLVER:
 TEST:
   IMS_PER_BATCH: 128
 
-OUTPUT_DIR: "/home/haoluo/log/reid/market1501/softmax_bs64_256x128"
-
-
+OUTPUT_DIR: "./"
