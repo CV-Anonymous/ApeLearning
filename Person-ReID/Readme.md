@@ -9,7 +9,7 @@ Installation
 
 Data
 ---------
-We use GMS and RPE learning on three Re-ID datasets:    
+We use GMS and APE learning on three Re-ID datasets:    
 [Market1501](http://www.liangzheng.com.cn/Project/project_reid.html)    
 [DukeMTMC](https://github.com/layumi/DukeMTMC-reID_evaluation#download-dataset)   
 [CUHK03](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)    
