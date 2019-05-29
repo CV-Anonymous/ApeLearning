@@ -1,5 +1,5 @@
 # APE Loss for CUHK03-Detected
-python3 tools/train.py --config_file='configs/softmax_triplet_Ours_V1.yml'\
+python3 tools/train.py --config_file='configs/APE_Learning.yml'\
  OUTPUT_DIR "/data/Checkpoints/ReID_Strong_BL/cuhk03" \
   LOG_NAME "log_test.txt"\
   OURS.ALPHA "8.0" OURS.BETA "0.5" MODEL.DEVICE_ID "'1'" MODEL.ADJUST_LR "off"\
