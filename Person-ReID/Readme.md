@@ -63,4 +63,4 @@ MODEL.IF_TRIPLET: "1" means training with the combination of APE loss and triple
 
 Notes
 ---------
-The codes are expanded on a [Re-ID Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thus, the baseline has some authors information, which is not belong to any author in our paper.
+The codes are expanded on a [Re-ID Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thus, the baseline has some authors information, which are not belong to any author in our paper.
