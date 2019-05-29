@@ -42,6 +42,6 @@ python3 tools/train.py --config_file='configs/softmax_triplet_Ours_V1.yml'  OUTP
 
 4. Main Parameters in training
 
-Illustration
+Notes
 ---------
 The codes are expanded on a [Re-ID Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thus, the baseline has some authors information, which is not belong to any author in our paper.
